@@ -1,6 +1,6 @@
 # Hi there, I'm Said! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+REST+API;Always+learning+new+things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+REST+API;Always+learning+new+things...)](https://git.io/typing-svg)
 
 ---
 
@@ -49,7 +49,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-baqbergenov-97b147384/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@BAZZ_B1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BAZZ_B1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baqbergenovsaid@gmail.com)
 
 ---
