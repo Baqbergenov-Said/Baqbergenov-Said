@@ -30,9 +30,9 @@
 ## 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baqbergenov-Said&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baqbergenov-Said&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=Fira+Code" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baqbergenov-Said&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baqbergenov-Said&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://leetcard.jacoblin.cool/baqbergenov-Said?theme=dark&font=Fira+Code" width="32%" />
 </p>
 ---
 
