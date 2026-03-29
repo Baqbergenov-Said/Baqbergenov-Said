@@ -27,15 +27,7 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baqbergenov-Said&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baqbergenov-Said&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://leetcard.jacoblin.cool/baqbergenov-Said?theme=dark&font=Fira+Code" width="32%" />
-</p>
----
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baqbergenov-Saida&show_icons=true&theme=radical)
 ## 🐍 My Contributions
 
 <picture>
