@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00d9ff/Baqbergenov-Said" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baqbergenov-Said&theme=github-compact&hide_border=true&hide_title=true&area=false" width="100%" />
 </p>
 
 ---
