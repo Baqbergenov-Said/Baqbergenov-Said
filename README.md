@@ -31,6 +31,10 @@
   <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=Fira+Code&hide=ranking" width="46%" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/00d9ff/Baqbergenov-Said" width="100%" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
