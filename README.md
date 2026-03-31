@@ -29,10 +29,28 @@
 
 ## 📊 GitHub & LeetCode Stats
 
-## 📊 GitHub & LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baqbergenov-Said&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=Fira+Code" width="32%" />
+
+  <!-- GitHub Trophies - har doim ishlaydi -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Baqbergenov-Said&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+</p>
+
+<p align="center">
+
+  <!-- Streak Stats - har doim ishlaydi -->
+  <img src="https://streak-stats.demolab.com?user=Baqbergenov-Said&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%" />
+
+  <!-- LeetCode - ishlaydi -->
+  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=Fira+Code&hide=ranking" width="48%" />
+
+</p>
+
+<p align="center">
+
+  <!-- Most Used Languages - ishlaydi -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baqbergenov-Said&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
+
 </p>
 
 ---
