@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Baqbergenov-Said&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=Fira+Code&hide=ranking" width="46%" />
+  <img src="![](https://leetcard.jacoblin.cool/baqbergenov-said?ext=heatmap)" />
 </p>
 
 <p align="center">
