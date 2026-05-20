@@ -25,14 +25,14 @@
 ---
 
 ## 📊 GitHub & LeetCode Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baqbergenov-Said&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  
-  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?theme=dark&font=baloo&ext=contest" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Baqbergenov-Said&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/baqbergenov-said?font=milonga" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baqbergenov-Said&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baqbergenov-Said&theme=github-compact&hide_border=true&hide_title=true&area=false" width="100%" />
 </p>
 
 ---
